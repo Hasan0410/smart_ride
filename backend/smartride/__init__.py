@@ -1,0 +1,1 @@
+# SmartRide Django project
